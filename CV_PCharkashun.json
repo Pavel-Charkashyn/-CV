@@ -1,55 +1,71 @@
 {
-"name": "Pavel",
-"secondname": "Charkashyn",
-"date of birth": "05.10.1988",
-"gender": "male",
-"marriage": false,
-"address": {"city": "Minsk", "zip": "220138", "street": "Karvata"},
-"phonenamber":["(017)3530543","(29)5564253"],
-"work": [{
-    "name": "Zroblena",
-    "position": "Printing equipment operator",
-    "url": "https://www.zroblena.by/",
-    "startDate": "2010-01-01",
-    "endDate": "2024-01-01"    
-  }],
-"hobbies": "design",
-"education":[{
-    "institution 1": "Сollege",
-    "area 1": "Technician economist",
-    "startDate 1": "2007-09-01",
-    "endDate 1": "2009-06-01",
-     
-	"institution 2": "University",
-    "area 2": "Economist manager",
-    "startDate 2": "2009-09-01",
-    "endDate 2": "2014-06-01"
-  }],
-  "certificates": [{
-    "name": "Software Testing Engineer. Basic level",
-    "date": "2024-06-01",
-    "issuer": "Academia BELHARD",
-    "url": "https://www.linkedin.com/in/pavel-charkashyn-6b620a306/overlay/1721927942545/single-media-viewer/?profileId=ACoAAE38P2oBwkcdj3ULJiKv3I3lrwpQKBgIkqs"
-  }],
-   "skills": [{
-    "name": "QA engineer",
-    "level": "Junior",
-    "keywords": [
-      "TestLink",
-      "Mantisbt",
-      "Postman",
-	  "Sourcetree",
-      "GIT"
-    ]
-  }],
-  "languages 1": [{
-    "language": "English", 
-    "fluency": "A-1"
-  }],
-  "languages 2": [{
-    "language": "Russian",
-    "fluency": "Native"
-  }]
+   "name":"Pavel",
+   "secondname":"Charkashyn",
+   "date of birth":"05.10.1988",
+   "gender":"male",
+   "marriage":false,
+   "address":{
+      "city":"Minsk",
+      "zip":"220138",
+      "street":"Karvata"
+   },
+   "phonenamber":[
+      "(017)3530543",
+      "(29)5564253"
+   ],
+   "work":[
+      {
+         "name":"Zroblena",
+         "position":"Printing equipment operator",
+         "url":"https://www.zroblena.by/",
+         "startDate":"2010-01-01",
+         "endDate":"2024-01-01"
+      }
+   ],
+   "hobbies":"design",
+   "education":[
+      {
+         "institution":"Сollege",
+         "area":"Technician economist",
+         "startDate":"2007-09-01",
+         "endDate":"2009-06-01"
+      },
+      {
+         "institution":"University",
+         "area":"Economist manager",
+         "startDate":"2009-09-01",
+         "endDate":"2014-06-01"
+      }
+   ],
+   "certificates":[
+      {
+         "name":"Software Testing Engineer. Basic level",
+         "date":"2024-06-01",
+         "issuer":"Academia BELHARD",
+         "url":"https://www.linkedin.com/in/pavel-charkashyn-6b620a306/overlay/1721927942545/single-media-viewer/?profileId=ACoAAE38P2oBwkcdj3ULJiKv3I3lrwpQKBgIkqs"
+      }
+   ],
+   "skills":[
+      {
+         "name":"QA engineer",
+         "level":"Junior",
+         "keywords":[
+            "TestLink",
+            "Mantisbt",
+            "Postman",
+            "Sourcetree",
+            "GIT"
+         ]
+      }
+   ],
+   "languages":[
+      {
+         "language":"English",
+         "level":"A-1"
+      },
+      {
+         "language":"Russian",
+         "level":"Native"
+      }
+   ]
 }
-
-
